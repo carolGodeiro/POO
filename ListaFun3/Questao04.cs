@@ -7,6 +7,5 @@ public class Questao04 {
 				Console.WriteLine(i);
 			}
 		}
-		Console.ReadKey();
 	}
 }

@@ -12,6 +12,5 @@ public class Questao05 {
 		}
 
 		Console.WriteLine("Soma: " + soma);
-		Console.ReadKey();
 	}
 }

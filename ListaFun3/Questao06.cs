@@ -11,7 +11,5 @@ public class Questao06 {
 			Console.WriteLine(n);
 			n++;
 		}
-
-		Console.ReadKey();
 	}
 }
