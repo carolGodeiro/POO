@@ -10,6 +10,5 @@ public class Questao03 {
 		}
 
 		Console.WriteLine(soma);
-		Console.ReadKey();
 	}
 }

@@ -5,7 +5,5 @@ public class Questao02 {
 		for (int i = 200; i >= 1; i--) {
 			Console.WriteLine(i);
 		}
-
-		Console.ReadKey();
 	}
 }
