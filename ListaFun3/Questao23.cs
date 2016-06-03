@@ -11,7 +11,7 @@ public class Questao23 {
 				if (n % i == 0) c++;
 			}
 
-			if (c <= 2) Console.WriteLine("Primo");
+			if (c == 2) Console.WriteLine("Primo");
 			else Console.WriteLine("Não é primo");
 		}
 	}
