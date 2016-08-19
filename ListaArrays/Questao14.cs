@@ -2,7 +2,7 @@ using System;
 
 public class Questao14 {
 	public static void Main (string[] args) {
-		int[] a = new int[12];
+		int[] a = new int[50];
 		int qtd = 0;
 
 		for (int i = 0; i < a.Length; i++) {
